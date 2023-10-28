@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+header {
+  padding: 20px;
+  background: #cdcdcd;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menu-container {
+  display: flex;
+  list-style-type: none;
+}
+
+.menu-container li {
+  margin-left: 10px;
+}
